@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+[Link to another page](./another-page.html).
 
 # Resources
 This repository is simply a list of helpful things that I've seen and saved over the years.
